@@ -1,0 +1,20 @@
+﻿  Game.cpp
+  PlayState.cpp
+c:\users\public\term-project-yechani0422\gameframework\playstate.cpp(34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\public\term-project-yechani0422\gameframework\playstate.cpp(40): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\public\term-project-yechani0422\gameframework\playstate.cpp(61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\public\term-project-yechani0422\gameframework\playstate.cpp(115): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\public\term-project-yechani0422\gameframework\playstate.cpp(132): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\public\term-project-yechani0422\gameframework\playstate.cpp(133): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\public\term-project-yechani0422\gameframework\playstate.cpp(134): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\public\term-project-yechani0422\gameframework\playstate.cpp(135): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\public\term-project-yechani0422\gameframework\playstate.cpp(138): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\public\term-project-yechani0422\gameframework\playstate.cpp(139): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\public\term-project-yechani0422\gameframework\playstate.cpp(140): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\public\term-project-yechani0422\gameframework\playstate.cpp(141): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  0 of 647 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  GameFramework.vcxproj -> C:\Users\Public\term-project-Yechani0422\GameFramework\Release\물고기 피하기!.exe
